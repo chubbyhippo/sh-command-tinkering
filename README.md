@@ -3,3 +3,6 @@
 ```
 grep -rl "search_text" . | wc -l
 ```
+```
+rg -l "search_text" . | wc -l
+```
