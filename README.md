@@ -1,4 +1,8 @@
 # sh-command-tinkering
+## compare all files and subdirectories within the specified directories
+```
+diff -r directory1 directory2
+```
 ## extract a ZIP file into a specific directory
 ```
 unzip example.zip -d /path/to/destination/directory
